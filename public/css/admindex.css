@@ -1,0 +1,12 @@
+body {
+    font-family: Arial;
+    background-color: rgba(247, 238, 125, 0.856);
+    background-image: url("../IMG/pizza2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+}
+main {
+    background-color: rgba(255, 255, 255, 0.9);
+}
